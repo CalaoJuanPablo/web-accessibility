@@ -275,7 +275,7 @@ input:focus,
 }
 
 .form-label {
-  color: var(--blanco);
+  color: var(--verde);
   font-family: var(--secondary-font);
 }
 
